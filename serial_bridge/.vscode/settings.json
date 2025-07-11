@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ifan/nafiulta_v1_ws/install/servo_command_input/lib/python3.10/site-packages",
+        "/home/ifan/nafiulta_v1_ws/install/serial_bridge/lib/python3.10/site-packages",
+        "/home/ifan/nafiulta_v1_ws/install/control_rover/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ifan/nafiulta_v1_ws/install/servo_command_input/lib/python3.10/site-packages",
+        "/home/ifan/nafiulta_v1_ws/install/serial_bridge/lib/python3.10/site-packages",
+        "/home/ifan/nafiulta_v1_ws/install/control_rover/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
