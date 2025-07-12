@@ -25,6 +25,7 @@ setup(
                 'serial_v3 = serial_bridge.serial_v3:main',
                 'serial_arm = serial_bridge.serial_arm:main',
                 'serial_mod = serial_bridge.serial_mod:main',
+                'serial_arm2 = serial_bridge.serial_arm_v2:main',
         ],
     },
 )
